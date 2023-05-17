@@ -1,0 +1,385 @@
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csprojAssemblyReference.cache
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Users\giovanna_21013\source\repos\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csprojAssemblyReference.cache
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormAutomovel.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Ubiety.Dns.Core.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\ZstdNet.dll
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.pdb
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CopyComplete
+C:\Estudos\2º ano\2º semestre\DS\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\ZstdNet.dll
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.pdb
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormAutomovel.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CopyComplete
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Users\usuario\Downloads\projeto_locadora_2022\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\ZstdNet.dll
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.AssemblyReference.cache
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormAutomovel.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CopyComplete
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Users\Mimil\Downloads\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.formDesativados.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Ubiety.Dns.Core.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\ZstdNet.dll
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.pdb
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csprojAssemblyReference.cache
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormAutomovel.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormDesativados.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CopyComplete
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Estudos\2º ano\2º semestre\DS\LOCADORA - FINALIZADO\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\ZstdNet.dll
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.pdb
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.AssemblyReference.cache
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormDesativados.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CopyComplete
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.AUTOMÓVEIS.resources
+C:\Users\kauej\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Guna.UI2.dll
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csprojAssemblyReference.cache
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarAutomovel.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.AUTOMÓVEIS.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormDesativados.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Users\TEMP.LAB.008\Desktop\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csprojAssemblyReference.cache
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarCargo.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarCliente.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarFuncionario.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarMarca.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarModelo.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Form1.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.CadastrarAutomovel.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.AUTOMÓVEIS.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCargo.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormCliente.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormDesativados.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormFuncionario.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormLocacao.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormMarca.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.FormModelo.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.Properties.Resources.resources
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.GenerateResource.cache
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CoreCompileInputs.cache
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe.config
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe.config
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.exe
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\projeto_locadora_2022.pdb
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\netstandard.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.AppContext.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Collections.Concurrent.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Collections.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Collections.NonGeneric.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Collections.Specialized.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.ComponentModel.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Console.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Data.Common.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.Debug.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.Process.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.Tools.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Drawing.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Dynamic.Runtime.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Globalization.Calendars.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Globalization.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Globalization.Extensions.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.Compression.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.FileSystem.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.Pipes.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Linq.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Linq.Expressions.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Linq.Parallel.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Linq.Queryable.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.Http.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.NameResolution.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.NetworkInformation.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.Ping.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.Requests.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.Security.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.Sockets.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Net.WebSockets.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.ObjectModel.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Reflection.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Reflection.Extensions.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Reflection.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Resources.Reader.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Resources.ResourceManager.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Resources.Writer.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Extensions.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Handles.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.InteropServices.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Numerics.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Claims.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.Principal.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Security.SecureString.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Text.Encoding.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Text.RegularExpressions.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.Overlapped.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.Tasks.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.Thread.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.ThreadPool.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Threading.Timer.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.ValueTuple.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Xml.XDocument.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Xml.XmlDocument.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Xml.XPath.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Guna.Charts.WinForms.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Guna.UI2.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\ZstdNet.dll
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\BouncyCastle.Crypto.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.pdb
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\Google.Protobuf.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\K4os.Hash.xxHash.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\MySql.Data.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Buffers.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Memory.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Numerics.Vectors.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Estudos\PROJETO LOCADORA 2K22\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.csproj.CopyComplete
+C:\Users\usuario\OneDrive\Área de Trabalho\DISCIPLINAS\DS\PROJETO_LOCADORA_PRONTO\PROJETO LOCADORA 2022\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.exe
+C:\Users\usuario\OneDrive\Área de Trabalho\DISCIPLINAS\DS\PROJETO_LOCADORA_PRONTO\PROJETO LOCADORA 2022\AnaKaroliny_Giovanna_Iasmin_Kauê\projeto_locadora_2022\projeto_locadora_2022\obj\Debug\projeto_locadora_2022.pdb

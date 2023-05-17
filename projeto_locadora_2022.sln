@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeto_locadora_2022", "projeto_locadora_2022\projeto_locadora_2022.csproj", "{A609BF45-D341-4B84-8D5E-351D1B3BE851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A609BF45-D341-4B84-8D5E-351D1B3BE851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A609BF45-D341-4B84-8D5E-351D1B3BE851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A609BF45-D341-4B84-8D5E-351D1B3BE851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A609BF45-D341-4B84-8D5E-351D1B3BE851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B67531-8A90-4B42-B13F-621D0B4BB284}
+	EndGlobalSection
+EndGlobal
